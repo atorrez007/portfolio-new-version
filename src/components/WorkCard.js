@@ -11,12 +11,18 @@ const WorkCard = (props) => {
       <div className="pro-details">
         <p>{props.text}</p>
         <div className="pro-btns">
-          <NavLink to={props.view} className="btn">
+          <NavLink
+            to="https://atorrez007.github.io/Koinos-Burn-Calculator/"
+            className="btn"
+          >
             View
           </NavLink>
-          <a href={props.source} className="btn">
+          <NavLink
+            to="https://github.com/atorrez007/Koinos-Burn-Calculator/"
+            className="btn"
+          >
             Source
-          </a>
+          </NavLink>
         </div>
       </div>
     </div>
