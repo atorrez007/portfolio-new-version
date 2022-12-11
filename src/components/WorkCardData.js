@@ -5,7 +5,7 @@ const ProjectCardData = [
     title: "Koinos Burn Calculator",
     text: "Coded in HTML, CSS and vanilla JavaScript. This project queries the coingecko API and factors the calculation with the parameters.",
     view: "https://atorrez007.github.io/Koinos-Burn-Calculator/",
-    source: "https://atorrez007.github.io/Koinos-Burn-Calculator/",
+    source: "https://github.com/atorrez007/Koinos-Burn-Calculator",
   },
   // {
   //   imgsrc: pro2,
